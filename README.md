@@ -1,1 +1,1 @@
-# Income Tax-calculator in android
+# Income Tax-calculator for android
